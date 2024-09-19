@@ -3,4 +3,6 @@
 *.JPG
 *.jpeg
 *.png
+*.txt
+*.pdf
 statics/
